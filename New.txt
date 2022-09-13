@@ -1,3 +1,6 @@
 New
 Change twice
 Change third
+
+fix the problem in fix branch.
+add the message in the New.txt
